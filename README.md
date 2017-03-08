@@ -1,6 +1,8 @@
-# A-Frame `gamepad-controls`
+# A-Frame `joycon-controls`
 
-Gamepad controls for A-Frame.
+Joy-Con controls for A-Frame.
+
+> NOTE: This is a fork of donmccurdy/aframe-gamepad-controls and a work in progress. If you'd like to see this happen, please consider opening issues or making a pull request. References to Don's awesome work remain as work continues on this.
 
 Demo: https://www.donmccurdy.com/aframe-gamepad-controls/
 
